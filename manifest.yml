@@ -1,0 +1,5 @@
+---
+applications:
+- name: indiamoving
+  path: .
+  buildpack: staticfile_buildpack
